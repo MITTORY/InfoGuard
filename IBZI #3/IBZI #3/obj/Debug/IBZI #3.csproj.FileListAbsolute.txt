@@ -1,0 +1,11 @@
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\3\IBZI #3\IBZI #3\bin\Debug\IBZI #3.exe.config
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\3\IBZI #3\IBZI #3\bin\Debug\IBZI #3.exe
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\3\IBZI #3\IBZI #3\bin\Debug\IBZI #3.pdb
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\3\IBZI #3\IBZI #3\obj\Debug\IBZI #3.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\3\IBZI #3\IBZI #3\obj\Debug\IBZI #3.csproj.SuggestedBindingRedirects.cache
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\3\IBZI #3\IBZI #3\obj\Debug\IBZI__3.Form1.resources
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\3\IBZI #3\IBZI #3\obj\Debug\IBZI__3.Properties.Resources.resources
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\3\IBZI #3\IBZI #3\obj\Debug\IBZI #3.csproj.GenerateResource.cache
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\3\IBZI #3\IBZI #3\obj\Debug\IBZI #3.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\3\IBZI #3\IBZI #3\obj\Debug\IBZI #3.exe
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\3\IBZI #3\IBZI #3\obj\Debug\IBZI #3.pdb
